@@ -1,0 +1,62 @@
+body{
+	background-color: #282828;
+	color: whitesmoke;
+	font-family: "consolas","sans-serif";
+	margin: 0px;
+}
+iframe{
+	display: block;
+	margin:0 auto;
+	width: 90%;
+	height: 1000px;
+}
+.navbar{
+	position: sticky;
+	top: 0;
+}
+.navbar ul{
+	list-style-type: none;
+	background-color: #1f1f1f;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	
+
+}
+.navbar a{
+	color: whitesmoke;
+	text-decoration: none;
+	padding: 15px;
+	display: block;
+	text-align: center;
+}
+.navbar a:visited{
+	color: whitesmoke;
+	
+}
+.navbar a:hover{
+	color:#bc85fa ;
+}
+.navbar a:active{
+	color: #9136f6;
+}
+.navbar li{
+	font-size: 400%;
+	float: left;
+	margin-left: 25%;
+	padding: 0px;
+
+}
+h1{
+	font-size: 450%;
+	margin-bottom: 100px;
+}
+h2{
+	font-size: 400%;
+	text-align: center;
+}
+p{
+	text-align: center;
+	font-size: 200%;
+	padding: 0px;
+}
