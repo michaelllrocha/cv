@@ -4,6 +4,9 @@ body{
 	font-family: "consolas","sans-serif";
 	margin: 0px;
 }
+main{
+	margin: 0px;
+}
 iframe{
 	display: block;
 	margin:0 auto;
@@ -41,11 +44,16 @@ iframe{
 	color: #9136f6;
 }
 .navbar li{
-	font-size: 400%;
+	font-size: 200%;
 	float: left;
-	margin-left: 25%;
+	margin-left: 17%;
 	padding: 0px;
 
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 h1{
 	font-size: 450%;
@@ -53,7 +61,8 @@ h1{
 }
 h2{
 	font-size: 400%;
-	text-align: center;
+	text-align: left;
+	padding-left: 13%;
 }
 p{
 	text-align: center;
